@@ -1,0 +1,50 @@
+TAB will auto complete file names
+
+git mkdir
+ls
+touch
+cd
+pwd - path to working directory
+git clone https:\\xxxx
+git add . = add the contents of the folder to 
+git status - list the status of the files in the folder
+git commit -m "test it again..."
+git push
+
+From the Git web site
+echo "# base" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:awolrob/base.git
+git push -u origin main
+
+
+DIR foo
+git cp ./readme.md ./foo
+copy 
+
+git mv 
+move
+
+git rm
+remove file (delete)
+
+git rm -r ./foo
+remove recursive to delete directory
+
+echo "some text" > aNewFile
+write text into a text file and create a file called aNewFile
+
+cat {filename]
+displays contents of the file 
+
+git remote -v
+displays the origin informaiton of the fetch and push locations
+
+git remove origin will break the fetch and push locations
+
+git remote add (adds a branch)
+
+git pull origin main

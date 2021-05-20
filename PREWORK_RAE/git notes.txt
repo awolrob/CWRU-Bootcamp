@@ -1,0 +1,18 @@
+2021-04-12 Brandon - prework to prepare for classes
+
+
+Command line Git
+1) git pull origin main
+pulls down the updated code to my computer
+
+2) git push origin main
+pushes my committed changes to the git cloud
+
+3) git status
+
+4) git commit -m "updated readme"
+commits a change before pushing
+
+5) git add -A
+adds your changes to the repository to be committed
+

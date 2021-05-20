@@ -1,0 +1,1489 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ellingson II\, Rob Calendar (Canvas)
+X-WR-CALDESC:Calendar events for the user\, Ellingson II\, Rob
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15422
+DTSTART:20210518T230000Z
+DTEND:20210519T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=05&year=2021#calendar_event_15422
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15423
+DTSTART:20210520T230000Z
+DTEND:20210521T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=05&year=2021#calendar_event_15423
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15424
+DTSTART:20210525T230000Z
+DTEND:20210526T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=05&year=2021#calendar_event_15424
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15425
+DTSTART:20210527T230000Z
+DTEND:20210528T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=05&year=2021#calendar_event_15425
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214100Z
+UID:event-assignment-12597
+DTSTART;VALUE=DATE:20210530T000000
+DTEND;VALUE=DATE:20210530T000000
+CLASS:PUBLIC
+DESCRIPTION:-------------------------\nChallenges in This Course\n---------
+ ----------------\n\nChallenge Types\n---------------\n\nThere are two type
+ s of challenges in this course. Each one is designed to prepare you for a 
+ scenario that you're likely to encounter as a web developer.\n\nThe two ty
+ pes of challenges are the following:\n\n*\n\nOn-the-job ticket or feature 
+ request challenges give you starter code in a folder called Develop\, whic
+ h you'll modify to complete the challenge. Odd-numbered modules follow thi
+ s format.\n\n*\n\nJob-seeking coding assessments or take-home assignments 
+ don't provide starter code. You’ll build these from scratch. Even-number
+ ed modules follow this format.\n\nChallenge Elements\n------------------\n
+ \nChallenges adhere to a format that’s commonly used by software develop
+ ment teams that use agile project management to manage their work. Practic
+ ing this will prepare you for the workflows you’ll experience as a profe
+ ssional full-stack web developer.\n\ndeep dive\n\nTo learn more about agil
+ e\, read this [Wikipedia article on agile software development] (https://e
+ n.wikipedia.org/wiki/Agile_software_development).\n\nEach Challenge contai
+ ns the following elements:\n\n*\n\nUser Story: This is a short\, simple de
+ scription of a feature told from the perspective of the person who is requ
+ esting the new capability\, usually a user or customer of the system. This
+  follows an AS AN / I WANT / SO THAT format. For example\, "AS A shopper v
+ isiting an online store\, I WANT to place items in a shopping cart\, SO TH
+ AT I can purchase them."\n\n*\n\nAcceptance Criteria: These are the requir
+ ements that you must meet to satisfy the scope of work. They are not exhau
+ stive\, but they do entail the minimum aspects of a working solution. Cons
+ ider this a checklist of baseline requirements. Acceptance criteria can be
+  presented in various ways. In this case\, we’ll use a common format cal
+ led scenario-oriented criteria which expresses each requirement in a WHEN 
+ / THEN format. Don’t worry if this doesn’t make sense now\; it will be
+ come very familiar to you after you complete a couple of challenges.\n\n*\
+ n\nMock-up: This is an image or animation that demonstrates the design and
+  functionality of the web application that you'll build for the Challenge.
+ \n\n*\n\nSubmission: You'll submit your completed Challenge for review. In
+  the real world\, when a developer finishes working on a project\, another
+  developer reviews the code\, providing feedback on errors and making sure
+  that all of the acceptance criteria have been met. For each Challenge\, y
+ our instructional staff will serve as your team of reviewers.\n\n---------
+ \nYour Task\n---------\n\nThis week is an odd-numbered week\, so your Chal
+ lenge is an on-the-job ticket\, which means you'll begin with starter code
+  that you need to modify. This week's challenge involves a very important 
+ aspect of web development: accessibility.\n\nOne of the most common tasks 
+ for front-end and junior developers is to take existing code and refactor 
+ it (recall that to refactor code is to improve it without changing what it
+  does) to meet a certain set of standards or implement a new technology. I
+ n this Challenge\, a marketing agency has hired you to refactor an existin
+ g site to make it more accessible.\n\nnote\n\nYour coursework this week wi
+ ll prepare you with all the skills that you need to succeed on this assign
+ ment!\n\nWeb accessibility is an increasingly important consideration for 
+ businesses. It ensures that people with disabilities can access a website 
+ using assistive technologies such as video captions\, screen readers\, and
+  braille keyboards. Making a website accessible is also good for business 
+ for many reasons\, one of them being that accessible sites are better posi
+ tioned in search engines like Google. It also helps companies avoid litiga
+ tion that can occur when people with disabilities can't access their websi
+ te.\n\nEven though accessibility is a broad topic that can include complex
+  requirements\, your tech lead has given you a small list of specific crit
+ eria to satisfy the project. These criteria are documented in the Acceptan
+ ce Criteria section.\n\nimportant\n\nAn important rule to follow when work
+ ing with someone else's code is the Scout Rule\, which recommends that you
+  always leave the code a little cleaner than when you found it.\n\nTo impr
+ ess clients\, you should always go the extra mile and improve the codebase
+  for long-term sustainability. For example\, make sure that all links are 
+ functioning correctly. Also\, rework the CSS to make it more efficient by 
+ consolidating CSS selectors and properties\, organizing them to follow the
+  semantic structure of the HTML elements\, and including comments before e
+ ach element or section of the page.\n\nAre you ready to jump in? Here are 
+ this week's challenge requirements:\n\nUser Story\n----------\n\nAS A mark
+ eting agency\nI WANT a codebase that follows accessibility standards\nSO T
+ HAT our own site is optimized for search engines\n\nAcceptance Criteria\n-
+ ------------------\n\nGIVEN a webpage meets accessibility standards\nWHEN 
+ I view the source code\nTHEN I find semantic HTML elements\nWHEN I view th
+ e structure of the HTML elements\nTHEN I find that the elements follow a l
+ ogical structure independent of styling and positioning\nWHEN I view the i
+ mage elements\nTHEN I find accessible alt attributes\nWHEN I view the head
+ ing attributes\nTHEN they fall in sequential order\nWHEN I view the title 
+ element\nTHEN I find a concise\, descriptive title\n\nMock-Up\n-------\n\n
+ note\n\nThis layout is designed for "desktop"\, so you may notice that som
+ e of the elements don't look like the Mock-Up when viewed at a resolution 
+ smaller than 768px. In future lessons\, you will learn how to make element
+ s "responsive" so that your web application is optimized for any screen si
+ ze.\n\nThe following image shows the web application's appearance and func
+ tionality:\n\n[A webpage titled "Horiseon" features a navigation menu in t
+ he header\, a hero image\, various sections\, and more.] (https://courses.
+ bootcampspot.com/courses/656/files/610520/preview)\n\n--------------------
+ ---------\nHow to Complete the Challenge\n-----------------------------\n\
+ nFollow these steps to complete the challenge:\n\n*\n\nClone your [starter
+  code] (https://github.com/coding-boot-camp/urban-octo-telegram).\n\n*\n\n
+ Refactor the code to meet the Acceptance Criteria.\n\n*\n\nMake sure your 
+ work meets the full list of grading requirements.\n\n*\n\nFollow the instr
+ uctions to submit your Challenge for review.\n\n--------------------\nGrad
+ ing Requirements\n--------------------\n\nThis challenge is graded based o
+ n the following criteria:\n\nTechnical Acceptance Criteria: 40%\n---------
+ -------------------------\n\n*\n\nSatisfies all of the preceding acceptanc
+ e criteria plus the following code improvements:\n\n*\n\nApplication's lin
+ ks all function correctly.\n\n*\n\nApplication's CSS selectors and propert
+ ies are consolidated and organized to follow semantic structure.\n\n*\n\nA
+ pplication's CSS file is properly commented.\n\nDeployment: 32%\n---------
+ ------\n\n*\n\nApplication deployed at live URL.\n\n*\n\nApplication loads
+  with no errors.\n\n*\n\nApplication GitHub URL submitted.\n\n*\n\nGitHub 
+ repository that contains application code.\n\nApplication Quality: 15%\n--
+ ----------------------\n\n* Application resembles (at least 90%) screensho
+ ts provided in challenge instructions.\n\nRepository Quality: 13%\n-------
+ ----------------\n\n*\n\nRepository has a unique name.\n\n*\n\nRepository 
+ follows best practices for file structure and naming conventions.\n\n*\n\n
+ Repository follows best practices for class/id naming conventions\, indent
+ ation\, quality comments\, etc.\n\n*\n\nRepository contains multiple descr
+ iptive commit messages.\n\n*\n\nRepository contains quality README file wi
+ th description\, screenshot\, and link to deployed application.\n\n-------
+ --------------------\nHow to Submit the Challenge\n-----------------------
+ ----\n\nYou are required to submit BOTH of the following for review:\n\n*\
+ n\nThe URL of the deployed application.\n\n*\n\nThe URL of the GitHub repo
+ sitory that contains your code. Give the repository a unique name and incl
+ ude a README file that describes the project.\n\nnote\n\nYou are allowed t
+ o miss up to two Challenge assignments and still earn your certificate. If
+  you complete all Challenge assignments\, your lowest two grades will be d
+ ropped. If you wish to skip this assignment\, click Submit and then indica
+ te that you’re skipping by typing “I choose to skip this assignment”
+  in the text box.\n\n[lesson banner] (https://courses.bootcampspot.com/cou
+ rses/656/files/614006/preview)
+SEQUENCE:0
+SUMMARY:1. HTML CSS Git Challenge: Code Refactor [Bootcamp: CWRU-VIRT-BO-FS
+ F-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=05&year=2021#assignment_12597
+X-ALT-DESC;FMTTYPE=text/html:<div id="bootcamp">\n<h2 id="challenges-in-thi
+ s-course">Challenges in This Course</h2>\n<h3 id="challenge-types">Challen
+ ge Types</h3>\n<p>There are two types of challenges in this course. Each o
+ ne is designed to prepare you for a scenario that you're likely to encount
+ er as a web developer. </p>\n<p>The two types of challenges are the follow
+ ing:</p>\n<ul>\n<li><p><strong>On-the-job ticket</strong> or <strong>featu
+ re request challenges</strong> give you starter code in a folder called <c
+ ode>Develop</code>\, which you'll modify to complete the challenge. Odd-nu
+ mbered modules follow this format.</p></li>\n<li><p><strong>Job-seeking co
+ ding assessments</strong> or <strong>take-home assignments</strong> don't 
+ provide starter code. You’ll build these from scratch. Even-numbered mod
+ ules follow this format.</p></li>\n</ul>\n<h3 id="challenge-elements">Chal
+ lenge Elements</h3>\n<p>Challenges adhere to a format that’s commonly us
+ ed by software development teams that use <strong>agile project management
+ </strong> to manage their work. Practicing this will prepare you for the w
+ orkflows you’ll experience as a professional full-stack web developer. <
+ /p>\n<blockquote class="callout deep-dive">\n  <strong>deep dive</strong>\
+ n  <p> To learn more about agile\, read this <a href="https://en.wikipedia
+ .org/wiki/Agile_software_development">Wikipedia article on agile software 
+ development</a>.</p>\n</blockquote>\n<p>Each Challenge contains the follow
+ ing elements:</p>\n<ul>\n<li><p><strong>User Story:</strong> This is a sho
+ rt\, simple description of a feature told from the perspective of the pers
+ on who is requesting the new capability\, usually a user or customer of th
+ e system. This follows an AS AN / I WANT / SO THAT format. For example\, "
+ AS A shopper visiting an online store\, I WANT to place items in a shoppin
+ g cart\, SO THAT I can purchase them." </p></li>\n<li><p><strong>Acceptanc
+ e Criteria:</strong> These are the requirements that you must meet to sati
+ sfy the scope of work. They are not exhaustive\, but they do entail the mi
+ nimum aspects of a working solution. Consider this a checklist of baseline
+  requirements. Acceptance criteria can be presented in various ways. In th
+ is case\, we’ll use a common format called <strong>scenario-oriented cri
+ teria</strong> which expresses each requirement in a WHEN / THEN format. D
+ on’t worry if this doesn’t make sense now\; it will become very famili
+ ar to you after you complete a couple of challenges. </p></li>\n<li><p><st
+ rong>Mock-up:</strong> This is an image or animation that demonstrates the
+  design and functionality of the web application that you'll build for the
+  Challenge.</p></li>\n<li><p><strong>Submission:</strong> You'll submit yo
+ ur completed Challenge for review. In the real world\, when a developer fi
+ nishes working on a project\, another developer reviews the code\, providi
+ ng feedback on errors and making sure that all of the acceptance criteria 
+ have been met. For each Challenge\, your instructional staff will serve as
+  your team of reviewers.</p></li>\n</ul>\n<h2 id="your-task">Your Task</h2
+ >\n<p>This week is an odd-numbered week\, so your Challenge is an on-the-j
+ ob ticket\, which means you'll begin with starter code that you need to mo
+ dify. This week's challenge involves a very important aspect of web develo
+ pment: <strong>accessibility</strong>. </p>\n<p>One of the most common tas
+ ks for front-end and junior developers is to take existing code and refact
+ or it (recall that to refactor code is to improve it without changing what
+  it does) to meet a certain set of standards or implement a new technology
+ . In this Challenge\, a marketing agency has hired you to refactor an exis
+ ting site to make it more accessible. </p>\n<blockquote class="callout not
+ e">\n  <strong>note</strong>\n  <p> Your coursework this week will prepare
+  you with all the skills that you need to succeed on this assignment!</p>\
+ n</blockquote>\n<p>Web accessibility is an increasingly important consider
+ ation for businesses. It ensures that people with disabilities can access 
+ a website using assistive technologies such as video captions\, screen rea
+ ders\, and braille keyboards. Making a website accessible is also good for
+  business for many reasons\, one of them being that accessible sites are b
+ etter positioned in search engines like Google. It also helps companies av
+ oid litigation that can occur when people with disabilities can't access t
+ heir website.</p>\n<p>Even though accessibility is a broad topic that can 
+ include complex requirements\, your tech lead has given you a small list o
+ f specific criteria to satisfy the project. These criteria are documented 
+ in the Acceptance Criteria section.</p>\n<blockquote class="callout import
+ ant">\n  <strong>important</strong>\n  <p> An important rule to follow whe
+ n working with someone else's code is the <strong>Scout Rule</strong>\, wh
+ ich recommends that you always leave the code a little cleaner than when y
+ ou found it.</p>\n</blockquote>\n<p>To impress clients\, you should always
+  go the extra mile and improve the codebase for long-term sustainability. 
+ For example\, make sure that all links are functioning correctly. Also\, r
+ ework the CSS to make it more efficient by consolidating CSS selectors and
+  properties\, organizing them to follow the semantic structure of the HTML
+  elements\, and including comments before each element or section of the p
+ age.</p>\n<p>Are you ready to jump in? Here are this week's challenge requ
+ irements: </p>\n<h3 id="user-story">User Story</h3>\n<pre><code>AS A marke
+ ting agency\nI WANT a codebase that follows accessibility standards\nSO TH
+ AT our own site is optimized for search engines</code></pre>\n<h3 id="acce
+ ptance-criteria">Acceptance Criteria</h3>\n<pre><code>GIVEN a webpage meet
+ s accessibility standards\nWHEN I view the source code\nTHEN I find semant
+ ic HTML elements\nWHEN I view the structure of the HTML elements\nTHEN I f
+ ind that the elements follow a logical structure independent of styling an
+ d positioning\nWHEN I view the image elements\nTHEN I find accessible alt 
+ attributes\nWHEN I view the heading attributes\nTHEN they fall in sequenti
+ al order\nWHEN I view the title element\nTHEN I find a concise\, descripti
+ ve title</code></pre>\n<h3 id="mock-up">Mock-Up</h3>\n<blockquote class="c
+ allout note">\n  <strong>note</strong>\n  <p> This layout is designed for 
+ "desktop"\, so you may notice that some of the elements don't look like th
+ e Mock-Up when viewed at a resolution smaller than 768px. In future lesson
+ s\, you will learn how to make elements "responsive" so that your web appl
+ ication is optimized for any screen size.</p>\n</blockquote>\n<p>The follo
+ wing image shows the web application's appearance and functionality:</p>\n
+ <p><img src="https://courses.bootcampspot.com/courses/656/files/610520/pre
+ view" alt="A webpage titled &quot\;Horiseon&quot\; features a navigation m
+ enu in the header\, a hero image\, various sections\, and more." data-api-
+ endpoint="https://courses.bootcampspot.com/api/v1/courses/656/files/610520
+ " data-api-returntype="File"></p>\n<h2 id="how-to-complete-the-challenge">
+ How to Complete the Challenge</h2>\n<p>Follow these steps to complete the 
+ challenge:</p>\n<ol>\n<li><p>Clone your <a href="https://github.com/coding
+ -boot-camp/urban-octo-telegram">starter code</a>.</p></li>\n<li><p>Refacto
+ r the code to meet the Acceptance Criteria.</p></li>\n<li><p>Make sure you
+ r work meets the full list of grading requirements.</p></li>\n<li><p>Follo
+ w the instructions to submit your Challenge for review.</p></li>\n</ol>\n<
+ h2 id="grading-requirements">Grading Requirements</h2>\n<p>This challenge 
+ is graded based on the following criteria: </p>\n<h3 id="technical-accepta
+ nce-criteria-40">Technical Acceptance Criteria: 40%</h3>\n<ul>\n<li>\n<p>S
+ atisfies all of the preceding acceptance criteria plus the following code 
+ improvements:</p>\n<ul>\n<li><p>Application's links all function correctly
+ .</p></li>\n<li><p>Application's CSS selectors and properties are consolid
+ ated and organized to follow semantic structure.</p></li>\n<li><p>Applicat
+ ion's CSS file is properly commented.</p></li>\n</ul>\n</li>\n</ul>\n<h3 i
+ d="deployment-32">Deployment: 32%</h3>\n<ul>\n<li><p>Application deployed 
+ at live URL.</p></li>\n<li><p>Application loads with no errors.</p></li>\n
+ <li><p>Application GitHub URL submitted.</p></li>\n<li><p>GitHub repositor
+ y that contains application code.</p></li>\n</ul>\n<h3 id="application-qua
+ lity-15">Application Quality: 15%</h3>\n<ul>\n<li>Application resembles (a
+ t least 90%) screenshots provided in challenge instructions.</li>\n</ul>\n
+ <h3 id="repository-quality-13">Repository Quality: 13%</h3>\n<ul>\n<li><p>
+ Repository has a unique name.</p></li>\n<li><p>Repository follows best pra
+ ctices for file structure and naming conventions.</p></li>\n<li><p>Reposit
+ ory follows best practices for class/id naming conventions\, indentation\,
+  quality comments\, etc.</p></li>\n<li><p>Repository contains multiple des
+ criptive commit messages.</p></li>\n<li><p>Repository contains quality REA
+ DME file with description\, screenshot\, and link to deployed application.
+ </p></li>\n</ul>\n<h2 id="how-to-submit-the-challenge">How to Submit the C
+ hallenge</h2>\n<p>You are required to submit BOTH of the following for rev
+ iew:</p>\n<ul>\n<li><p>The URL of the deployed application.</p></li>\n<li>
+ <p>The URL of the GitHub repository that contains your code. Give the repo
+ sitory a unique name and include a README file that describes the project.
+ </p></li>\n</ul>\n<blockquote class="callout note">\n  <strong>note</stron
+ g>\n  <p> You are allowed to miss up to two Challenge assignments and stil
+ l earn your certificate. If you complete all Challenge assignments\, your 
+ lowest two grades will be dropped. If you wish to skip this assignment\, c
+ lick Submit and then indicate that you’re skipping by typing “I choose
+  to skip this assignment” in the text box.</p>\n</blockquote>\n<img src=
+ "https://courses.bootcampspot.com/courses/656/files/614006/preview" alt="l
+ esson banner" style="display: none\;" data-api-endpoint="https://courses.b
+ ootcampspot.com/api/v1/courses/656/files/614006" data-api-returntype="File
+ ">\n</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15426
+DTSTART:20210601T230000Z
+DTEND:20210602T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=06&year=2021#calendar_event_15426
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15427
+DTSTART:20210603T230000Z
+DTEND:20210604T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=06&year=2021#calendar_event_15427
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214200Z
+UID:event-assignment-12650
+DTSTART;VALUE=DATE:20210606T000000
+DTEND;VALUE=DATE:20210606T000000
+CLASS:PUBLIC
+DESCRIPTION:---------\nYour Task\n---------\n\nWelcome to this week's Chall
+ enge! This is an even-numbered week\, so you won't be given any starter co
+ de. Instead\, you'll create a web application from scratch! This week\, yo
+ u'll build a portfolio page\, which you can add to as the course progresse
+ s.\n\nA portfolio of work can showcase your skills and talents to employer
+ s looking to fill a part-time or full-time position. An effective portfoli
+ o highlights your strongest work as well as the thought processes behind i
+ t. Students who have portfolios with deployed web applications (meaning th
+ ey are live on the web) are typically very successful in their career sear
+ ch after the boot camp. This last point can’t be stressed enough: having
+  several deployed projects is a minimum requirement to receive an initial 
+ interview at many companies.\n\nWith these points in mind\, in this Challe
+ nge you’ll set yourself up for future success by applying the core skill
+ s you've recently learned: flexbox\, media queries\, and CSS variables. Yo
+ u'll get to practice your new skills while creating something that you'll 
+ use during your job search. It’s a win-win that you'll likely be gratefu
+ l for in the future!\n\nnote\n\nIf you don't have enough web applications 
+ to showcase at this point\, use placeholder images and names. You can chan
+ ge them to real applications as you create them later in the course.\n\nLe
+ t’s look at what a user story written from the perspective of a hiring m
+ anager might look like. As you might remember\, we follow the AS AN / I WA
+ NT / SO THAT format.\n\n----------\nUser Story\n----------\n\nAS AN employ
+ er\nI WANT to view a potential employee's deployed portfolio of work sampl
+ es\nSO THAT I can review samples of their work and assess whether they're 
+ a good candidate for an open position\n\n-------------------\nAcceptance C
+ riteria\n-------------------\n\nHere are the critical requirements necessa
+ ry to develop a portfolio that satisfies a typical hiring manager’s need
+ s:\n\nGIVEN I need to sample a potential employee's previous work\nWHEN I 
+ load their portfolio\nTHEN I am presented with the developer's name\, a re
+ cent photo or avatar\, and links to sections about them\, their work\, and
+  how to contact them\nWHEN I click one of the links in the navigation\nTHE
+ N the UI scrolls to the corresponding section\nWHEN I click on the link to
+  the section about their work\nTHEN the UI scrolls to a section with title
+ d images of the developer's applications\nWHEN I am presented with the dev
+ eloper's first application\nTHEN that application's image should be larger
+  in size than the others\nWHEN I click on the images of the applications\n
+ THEN I am taken to that deployed application\nWHEN I resize the page or vi
+ ew the site on various screens and devices\nTHEN I am presented with a res
+ ponsive layout that adapts to my viewport\n\n-------\nMock-Up\n-------\n\n
+ The following animation shows the web application's appearance and functio
+ nality:\n\n[portfolio demo] (https://courses.bootcampspot.com/courses/656/
+ files/614319/preview)\n\n-----------------------------\nHow to Complete th
+ e Challenge\n-----------------------------\n\nFollow these steps to comple
+ te the challenge:\n\n*\n\nUse the Acceptance Criteria as a guide for how y
+ ou'll plan deadlines\, sketch\, and code your portfolio.\n\n*\n\nEnsure th
+ at your work meets the Acceptance Criteria and the full list of grading re
+ quirements.\n\n*\n\nReach out to your instructional support team throughou
+ t the week for help.\n\n*\n\nFollow submission instructions.\n\n----------
+ ----------\nGrading Requirements\n--------------------\n\nThis challenge i
+ s graded based on the following criteria:\n\nTechnical Acceptance Criteria
+ : 40%\n----------------------------------\n\n* Satisfies all of the preced
+ ing acceptance criteria.\n\nDeployment: 32%\n---------------\n\n*\n\nAppli
+ cation deployed at live URL.\n\n*\n\nApplication loads with no errors.\n\n
+ *\n\nApplication GitHub URL submitted.\n\n*\n\nGitHub repository contains 
+ application code.\n\nApplication Quality: 15%\n------------------------\n\
+ n* Application resembles the mock-up functionality provided in the Challen
+ ge instructions.\n\nRepository Quality: 13%\n-----------------------\n\n*\
+ n\nRepository has a unique name.\n\n*\n\nRepository follows best practices
+  for file structure and naming conventions.\n\n*\n\nRepository follows bes
+ t practices for class/id naming conventions\, indentation\, quality commen
+ ts\, etc.\n\n*\n\nRepository contains multiple descriptive commit messages
+ .\n\n*\n\nRepository contains quality readme with description\, screenshot
+ \, link to deployed application.\n\n---------------------------\nHow to Su
+ bmit the Challenge\n---------------------------\n\nYou are required to sub
+ mit BOTH of the following for review:\n\n*\n\nThe URL of the deployed appl
+ ication.\n\n*\n\nThe URL of the GitHub repository that contains your code.
+  Give the repository a unique name and include a README file that describe
+ s the project.\n\nnote\n\nYou are allowed to miss up to two Challenge assi
+ gnments and still earn your certificate. If you complete all Challenge ass
+ ignments\, your lowest two grades will be dropped. If you wish to skip thi
+ s assignment\, click Submit then indicate you are skipping by typing “I 
+ choose to skip this assignment” in the text box.\n\n[lesson banner] (htt
+ ps://courses.bootcampspot.com/courses/656/files/614404/preview)
+SEQUENCE:0
+SUMMARY:2. Advanced CSS Challenge: Professional Portfolio [Bootcamp: CWRU-V
+ IRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=06&year=2021#assignment_12650
+X-ALT-DESC;FMTTYPE=text/html:<div id="bootcamp">\n<h2 id="your-task">Your T
+ ask</h2>\n<p>Welcome to this week's Challenge! This is an even-numbered we
+ ek\, so you won't be given any starter code. Instead\, you'll create a web
+  application from scratch! This week\, you'll build a portfolio page\, whi
+ ch you can add to as the course progresses. </p>\n<p>A portfolio of work c
+ an showcase your skills and talents to employers looking to fill a part-ti
+ me or full-time position. An effective portfolio highlights your strongest
+  work as well as the thought processes behind it. Students who have portfo
+ lios with deployed web applications (meaning they are live on the web) are
+  typically very successful in their career search after the boot camp. Thi
+ s last point can’t be stressed enough: having several deployed projects 
+ is a minimum requirement to receive an initial interview at many companies
+ . </p>\n<p>With these points in mind\, in this Challenge you’ll set your
+ self up for future success by applying the core skills you've recently lea
+ rned: flexbox\, media queries\, and CSS variables. You'll get to practice 
+ your new skills while creating something that you'll use during your job s
+ earch. It’s a win-win that you'll likely be grateful for in the future!<
+ /p>\n<blockquote class="callout note">\n  <strong>note</strong>\n  <p> If 
+ you don't have enough web applications to showcase at this point\, use pla
+ ceholder images and names. You can change them to real applications as you
+  create them later in the course.</p>\n</blockquote>\n<p>Let’s look at w
+ hat a user story written from the perspective of a hiring manager might lo
+ ok like. As you might remember\, we follow the AS AN / I WANT / SO THAT fo
+ rmat. </p>\n<h2 id="user-story">User Story</h2>\n<pre><code>AS AN employer
+ \nI WANT to view a potential employee's deployed portfolio of work samples
+ \nSO THAT I can review samples of their work and assess whether they're a 
+ good candidate for an open position</code></pre>\n<h2 id="acceptance-crite
+ ria">Acceptance Criteria</h2>\n<p>Here are the critical requirements neces
+ sary to develop a portfolio that satisfies a typical hiring manager’s ne
+ eds:</p>\n<pre><code>GIVEN I need to sample a potential employee's previou
+ s work\nWHEN I load their portfolio\nTHEN I am presented with the develope
+ r's name\, a recent photo or avatar\, and links to sections about them\, t
+ heir work\, and how to contact them\nWHEN I click one of the links in the 
+ navigation\nTHEN the UI scrolls to the corresponding section\nWHEN I click
+  on the link to the section about their work\nTHEN the UI scrolls to a sec
+ tion with titled images of the developer's applications\nWHEN I am present
+ ed with the developer's first application\nTHEN that application's image s
+ hould be larger in size than the others\nWHEN I click on the images of the
+  applications\nTHEN I am taken to that deployed application\nWHEN I resize
+  the page or view the site on various screens and devices\nTHEN I am prese
+ nted with a responsive layout that adapts to my viewport</code></pre>\n<h2
+  id="mock-up">Mock-Up</h2>\n<p>The following animation shows the web appli
+ cation's appearance and functionality:</p>\n<p><img src="https://courses.b
+ ootcampspot.com/courses/656/files/614319/preview" alt="portfolio demo" dat
+ a-api-endpoint="https://courses.bootcampspot.com/api/v1/courses/656/files/
+ 614319" data-api-returntype="File"></p>\n<h2 id="how-to-complete-the-chall
+ enge">How to Complete the Challenge</h2>\n<p>Follow these steps to complet
+ e the challenge:</p>\n<ol>\n<li><p>Use the Acceptance Criteria as a guide 
+ for how you'll plan deadlines\, sketch\, and code your portfolio.</p></li>
+ \n<li><p>Ensure that your work meets the Acceptance Criteria and the full 
+ list of grading requirements. </p></li>\n<li><p>Reach out to your instruct
+ ional support team throughout the week for help.</p></li>\n<li><p>Follow s
+ ubmission instructions. </p></li>\n</ol>\n<h2 id="grading-requirements">Gr
+ ading Requirements</h2>\n<p>This challenge is graded based on the followin
+ g criteria: </p>\n<h3 id="technical-acceptance-criteria-40">Technical Acce
+ ptance Criteria: 40%</h3>\n<ul>\n<li>Satisfies all of the preceding accept
+ ance criteria.</li>\n</ul>\n<h3 id="deployment-32">Deployment: 32%</h3>\n<
+ ul>\n<li><p>Application deployed at live URL.</p></li>\n<li><p>Application
+  loads with no errors.</p></li>\n<li><p>Application GitHub URL submitted.<
+ /p></li>\n<li><p>GitHub repository contains application code.</p></li>\n</
+ ul>\n<h3 id="application-quality-15">Application Quality: 15%</h3>\n<ul>\n
+ <li>Application resembles the mock-up functionality provided in the Challe
+ nge instructions.</li>\n</ul>\n<h3 id="repository-quality-13">Repository Q
+ uality: 13%</h3>\n<ul>\n<li><p>Repository has a unique name.</p></li>\n<li
+ ><p>Repository follows best practices for file structure and naming conven
+ tions.</p></li>\n<li><p>Repository follows best practices for class/id nam
+ ing conventions\, indentation\, quality comments\, etc.</p></li>\n<li><p>R
+ epository contains multiple descriptive commit messages.</p></li>\n<li><p>
+ Repository contains quality readme with description\, screenshot\, link to
+  deployed application.</p></li>\n</ul>\n<h2 id="how-to-submit-the-challeng
+ e">How to Submit the Challenge</h2>\n<p>You are required to submit BOTH of
+  the following for review:</p>\n<ul>\n<li><p>The URL of the deployed appli
+ cation.</p></li>\n<li><p>The URL of the GitHub repository that contains yo
+ ur code. Give the repository a unique name and include a README file that 
+ describes the project.</p></li>\n</ul>\n<blockquote class="callout note">\
+ n  <strong>note</strong>\n  <p> You are allowed to miss up to two Challeng
+ e assignments and still earn your certificate. If you complete all Challen
+ ge assignments\, your lowest two grades will be dropped. If you wish to sk
+ ip this assignment\, click Submit then indicate you are skipping by typing
+  “I choose to skip this assignment” in the text box.</p>\n</blockquote
+ >\n<img src="https://courses.bootcampspot.com/courses/656/files/614404/pre
+ view" alt="lesson banner" style="display:none" data-api-endpoint="https://
+ courses.bootcampspot.com/api/v1/courses/656/files/614404" data-api-returnt
+ ype="File">\n</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15428
+DTSTART:20210608T230000Z
+DTEND:20210609T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=06&year=2021#calendar_event_15428
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15429
+DTSTART:20210610T230000Z
+DTEND:20210611T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=06&year=2021#calendar_event_15429
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214200Z
+UID:event-assignment-12673
+DTSTART;VALUE=DATE:20210613T000000
+DTEND;VALUE=DATE:20210613T000000
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:3. JavaScript Challenge: Password Generator [Bootcamp: CWRU-VIRT-BO
+ -FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=06&year=2021#assignment_12673
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15430
+DTSTART:20210615T230000Z
+DTEND:20210616T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=06&year=2021#calendar_event_15430
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15431
+DTSTART:20210617T230000Z
+DTEND:20210618T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=06&year=2021#calendar_event_15431
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214200Z
+UID:event-assignment-12677
+DTSTART;VALUE=DATE:20210620T000000
+DTEND;VALUE=DATE:20210620T000000
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:4. Web APIs Challenge: Code Quiz [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-
+ 2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=06&year=2021#assignment_12677
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15432
+DTSTART:20210622T230000Z
+DTEND:20210623T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=06&year=2021#calendar_event_15432
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15433
+DTSTART:20210624T230000Z
+DTEND:20210625T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=06&year=2021#calendar_event_15433
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214200Z
+UID:event-assignment-12682
+DTSTART;VALUE=DATE:20210627T000000
+DTEND;VALUE=DATE:20210627T000000
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:5. Third-Party APIs Challenge: Work Day Scheduler [Bootcamp: CWRU-V
+ IRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=06&year=2021#assignment_12682
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15434
+DTSTART:20210629T230000Z
+DTEND:20210630T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=06&year=2021#calendar_event_15434
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15435
+DTSTART:20210701T230000Z
+DTEND:20210702T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=07&year=2021#calendar_event_15435
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214200Z
+UID:event-assignment-12688
+DTSTART;VALUE=DATE:20210704T000000
+DTEND;VALUE=DATE:20210704T000000
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:6. Server-Side APIs Challenge: Weather Dashboard [Bootcamp: CWRU-VI
+ RT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=07&year=2021#assignment_12688
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15436
+DTSTART:20210706T230000Z
+DTEND:20210707T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=07&year=2021#calendar_event_15436
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15437
+DTSTART:20210708T230000Z
+DTEND:20210709T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=07&year=2021#calendar_event_15437
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214200Z
+UID:event-assignment-12693
+DTSTART;VALUE=DATE:20210711T000000
+DTEND;VALUE=DATE:20210711T000000
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:8. Interactive Front-End Project [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-
+ 2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=07&year=2021#assignment_12693
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15438
+DTSTART:20210713T230000Z
+DTEND:20210714T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=07&year=2021#calendar_event_15438
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15439
+DTSTART:20210715T230000Z
+DTEND:20210716T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=07&year=2021#calendar_event_15439
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15440
+DTSTART:20210720T230000Z
+DTEND:20210721T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=07&year=2021#calendar_event_15440
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15441
+DTSTART:20210722T230000Z
+DTEND:20210723T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=07&year=2021#calendar_event_15441
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214300Z
+UID:event-assignment-12695
+DTSTART;VALUE=DATE:20210725T000000
+DTEND;VALUE=DATE:20210725T000000
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:9. Node.js Challenge: Professional README Generator [Bootcamp: CWRU
+ -VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=07&year=2021#assignment_12695
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15442
+DTSTART:20210727T230000Z
+DTEND:20210728T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=07&year=2021#calendar_event_15442
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15443
+DTSTART:20210729T230000Z
+DTEND:20210730T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=07&year=2021#calendar_event_15443
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214300Z
+UID:event-assignment-12603
+DTSTART;VALUE=DATE:20210801T000000
+DTEND;VALUE=DATE:20210801T000000
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:10. Object-Oriented Programming Challenge: Team Profile Generator [
+ Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=08&year=2021#assignment_12603
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15444
+DTSTART:20210803T230000Z
+DTEND:20210804T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=08&year=2021#calendar_event_15444
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15445
+DTSTART:20210805T230000Z
+DTEND:20210806T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=08&year=2021#calendar_event_15445
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210512T144000Z
+UID:event-assignment-12607
+DTSTART;VALUE=DATE:20210808T000000
+DTEND;VALUE=DATE:20210808T000000
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:11. Express.js Challenge: Note Taker [Bootcamp: CWRU-VIRT-BO-FSF-PT
+ -05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=08&year=2021#assignment_12607
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15446
+DTSTART:20210810T230000Z
+DTEND:20210811T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=08&year=2021#calendar_event_15446
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15447
+DTSTART:20210812T230000Z
+DTEND:20210813T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=08&year=2021#calendar_event_15447
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214300Z
+UID:event-assignment-12612
+DTSTART;VALUE=DATE:20210815T000000
+DTEND;VALUE=DATE:20210815T000000
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:12. SQL Challenge: Employee Tracker [Bootcamp: CWRU-VIRT-BO-FSF-PT-
+ 05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=08&year=2021#assignment_12612
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15448
+DTSTART:20210817T230000Z
+DTEND:20210818T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=08&year=2021#calendar_event_15448
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15449
+DTSTART:20210819T230000Z
+DTEND:20210820T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=08&year=2021#calendar_event_15449
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214400Z
+UID:event-assignment-12619
+DTSTART;VALUE=DATE:20210822T000000
+DTEND;VALUE=DATE:20210822T000000
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:13. Object-Relational Mapping (ORM) Challenge: E-commerce Back End 
+ [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=08&year=2021#assignment_12619
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15450
+DTSTART:20210824T230000Z
+DTEND:20210825T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=08&year=2021#calendar_event_15450
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15451
+DTSTART:20210826T230000Z
+DTEND:20210827T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=08&year=2021#calendar_event_15451
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214400Z
+UID:event-assignment-12624
+DTSTART;VALUE=DATE:20210829T000000
+DTEND;VALUE=DATE:20210829T000000
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:14. Model-View-Controller (MVC) Challenge: Tech Blog [Bootcamp: CWR
+ U-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=08&year=2021#assignment_12624
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15452
+DTSTART:20210831T230000Z
+DTEND:20210901T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=08&year=2021#calendar_event_15452
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15453
+DTSTART:20210902T230000Z
+DTEND:20210903T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=09&year=2021#calendar_event_15453
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214400Z
+UID:event-assignment-12629
+DTSTART;VALUE=DATE:20210905T000000
+DTEND;VALUE=DATE:20210905T000000
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:16. Interactive Full-Stack Project [Bootcamp: CWRU-VIRT-BO-FSF-PT-0
+ 5-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=09&year=2021#assignment_12629
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15454
+DTSTART:20210907T230000Z
+DTEND:20210908T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=09&year=2021#calendar_event_15454
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15455
+DTSTART:20210909T230000Z
+DTEND:20210910T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=09&year=2021#calendar_event_15455
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15456
+DTSTART:20210914T230000Z
+DTEND:20210915T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=09&year=2021#calendar_event_15456
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15457
+DTSTART:20210916T230000Z
+DTEND:20210917T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=09&year=2021#calendar_event_15457
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214400Z
+UID:event-assignment-12634
+DTSTART;VALUE=DATE:20210919T000000
+DTEND;VALUE=DATE:20210919T000000
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:17. Computer Science for JavaScript Challenge: Regex Tutorial [Boot
+ camp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=09&year=2021#assignment_12634
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15458
+DTSTART:20210921T230000Z
+DTEND:20210922T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=09&year=2021#calendar_event_15458
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15459
+DTSTART:20210923T230000Z
+DTEND:20210924T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=09&year=2021#calendar_event_15459
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214500Z
+UID:event-assignment-12639
+DTSTART;VALUE=DATE:20210926T000000
+DTEND;VALUE=DATE:20210926T000000
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:18. NoSQL Challenge: Social Network API [Bootcamp: CWRU-VIRT-BO-FSF
+ -PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=09&year=2021#assignment_12639
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15460
+DTSTART:20210928T230000Z
+DTEND:20210929T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=09&year=2021#calendar_event_15460
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15461
+DTSTART:20210930T230000Z
+DTEND:20211001T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=09&year=2021#calendar_event_15461
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214500Z
+UID:event-assignment-12644
+DTSTART;VALUE=DATE:20211003T000000
+DTEND;VALUE=DATE:20211003T000000
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:19. Progressive Web Applications (PWA) Challenge: Budget Tracker [B
+ ootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=10&year=2021#assignment_12644
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15462
+DTSTART:20211005T230000Z
+DTEND:20211006T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=10&year=2021#calendar_event_15462
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15463
+DTSTART:20211007T230000Z
+DTEND:20211008T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=10&year=2021#calendar_event_15463
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214500Z
+UID:event-assignment-12654
+DTSTART;VALUE=DATE:20211010T000000
+DTEND;VALUE=DATE:20211010T000000
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:20. React Challenge: React Portfolio [Bootcamp: CWRU-VIRT-BO-FSF-PT
+ -05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=10&year=2021#assignment_12654
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15464
+DTSTART:20211012T230000Z
+DTEND:20211013T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=10&year=2021#calendar_event_15464
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15465
+DTSTART:20211014T230000Z
+DTEND:20211015T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=10&year=2021#calendar_event_15465
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214500Z
+UID:event-assignment-12659
+DTSTART;VALUE=DATE:20211017T000000
+DTEND;VALUE=DATE:20211017T000000
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:21. MERN Challenge: Book Search Engine [Bootcamp: CWRU-VIRT-BO-FSF-
+ PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=10&year=2021#assignment_12659
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15466
+DTSTART:20211019T230000Z
+DTEND:20211020T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=10&year=2021#calendar_event_15466
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15467
+DTSTART:20211021T230000Z
+DTEND:20211022T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=10&year=2021#calendar_event_15467
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214500Z
+UID:event-assignment-12664
+DTSTART;VALUE=DATE:20211024T000000
+DTEND;VALUE=DATE:20211024T000000
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:22. State Challenge: Redux Store [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-
+ 2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=10&year=2021#assignment_12664
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15468
+DTSTART:20211026T230000Z
+DTEND:20211027T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=10&year=2021#calendar_event_15468
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214800Z
+UID:event-calendar-event-15469
+DTSTART:20211028T230000Z
+DTEND:20211029T010000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting:924 0957 9323] (https://zoom.u
+ s/j/92409579323?pwd=N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:Virtual Class [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=10&year=2021#calendar_event_15469
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://zoom.us/j/92409579323?pwd=
+ N1ptZXpkTTBkeHB1TnkrNUVLYWx0QT09" target="_blank">Click here to join Zoom 
+ Meeting:924 0957 9323</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210505T214500Z
+UID:event-assignment-12669
+DTSTART;VALUE=DATE:20211031T000000
+DTEND;VALUE=DATE:20211031T000000
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:24. Interactive MERN SPA Project [Bootcamp: CWRU-VIRT-BO-FSF-PT-05-
+ 2021-U-B-TTH]
+URL:https://courses.bootcampspot.com/calendar?include_contexts=course_656&m
+ onth=10&year=2021#assignment_12669
+END:VEVENT
+END:VCALENDAR

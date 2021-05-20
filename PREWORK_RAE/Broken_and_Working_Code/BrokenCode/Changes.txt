@@ -1,0 +1,22 @@
+Changes.txt
+Rob Ellingson 3/23/2021
+
+Logic.js
+1) formatted code to match
+2) added comments from WorkingCode to BrokenCode
+3) aligned source code
+4) added quotes around booFacts array elements
+5) corrected syntax to add "" around click functions/grow / shrink
+6) add "" to pink color
+
+BooTheDog.html
+1) formatted code to match
+2) added h1 tags
+3) commented out the "Instructions"
+4) added p tags to the "panel panel-primary"
+5) corrected syntax errors on a tag
+6) added plan text URL to a tag
+7) correct img tag syntax
+8) corrected referece to js file
+9) correct the ids of the button colors to match their purpose
+10) add list item tags to ordered list
